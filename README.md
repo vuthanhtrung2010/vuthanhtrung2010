@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Trung
 I am a self taught, developer, with over 3 years of experience with knowledge in over 3 programming languages.
+
 Visitors Count: [![Visitor Count](https://visitor-count.devtrung.tech/devtrung/github/count.svg)](https://github.com/vuthanhtrung2010/visitor-counter)
 [![GitHub Streak](https://streak-stats.demolab.com?user=vuthanhtrung2010&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuthanhtrung2010&size_weight=0.5&count_weight=0.5&theme=cobalt)
